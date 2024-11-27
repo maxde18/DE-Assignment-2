@@ -3,7 +3,6 @@ volumes:
     driver_opts:
       type: none
       device: /home/m_r_deleeuw/DE-Assignment-2/spark/data
-      
       o: bind
   notebooks:
     driver_opts:
