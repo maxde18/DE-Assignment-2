@@ -10,3 +10,4 @@ Some of the data files were too large to upload. Below are the links to the resp
 Open Airbnb data: https://insideairbnb.com/get-the-data/
 - https://data.insideairbnb.com/united-states/ny/new-york-city/2024-09-04/visualisations/listings.csv -> listings.csv
 - https://data.insideairbnb.com/united-states/ny/new-york-city/2024-09-04/data/calendar.csv.gz -> calendar.csv
+- https://data.insideairbnb.com/united-states/ny/new-york-city/2024-09-04/visualisations/reviews.csv -> reviews.csv
